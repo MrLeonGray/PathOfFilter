@@ -2431,3 +2431,4 @@ Show
 	PlayEffect Yellow
 	MinimapIcon 0 Yellow Circle
 	DisableDropSound
+    CustomAlertSound
